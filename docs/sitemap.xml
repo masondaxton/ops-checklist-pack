@@ -10,4 +10,9 @@
   <url><loc>https://masondaxton.github.io/ops-checklist-pack/distribute/organic-note.md</loc></url>
   <url><loc>https://masondaxton.github.io/ops-checklist-pack/use-cases/field-service-daily-open-close.html</loc></url>
   <url><loc>https://masondaxton.github.io/ops-checklist-pack/checklists/field-service-daily-open-close.html</loc></url>
+  <url>
+    <loc>https://masondaxton.github.io/ops-checklist-pack/use-cases/hvac-daily-open-close-checklist.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
